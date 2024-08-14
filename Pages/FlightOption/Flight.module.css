@@ -1,0 +1,8 @@
+.bestBox:hover {
+    background-color: rgb(218, 213, 213);
+}
+
+.span {
+    color: red;
+    padding: 2px;
+}
